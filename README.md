@@ -59,7 +59,7 @@ Improves marketing strategies
 Identifies high-revenue regions and product categories
 📊 Project Visuals
 
-(Add images after uploading to /images folder)
+<img width="1274" height="437" alt="Screenshot 2026-04-07 232925" src="https://github.com/user-attachments/assets/6d584105-8a55-444b-b1c0-0754e624f2dc" />
 
 Gender Analysis
 Age Group Analysis
